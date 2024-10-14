@@ -6,8 +6,8 @@
         "condition": "minecraft:entity_properties",
         "entity": "this",
         "predicate": {
-          "type": "#eden:valid_for_equipment",
-          "nbt": "{Tags:[\"eden.equipped\"]}"
+          "type": "#eden:valid_for_scaling",
+          "nbt": "{Tags:[\"eden.scaled\"]}"
         }
       },
       {
