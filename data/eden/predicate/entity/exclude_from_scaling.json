@@ -14,6 +14,14 @@
         "condition": "minecraft:entity_properties",
         "entity": "this",
         "predicate": {
+          "type": "minecraft:creeper",
+          "nbt": "{Tags:[\"eden.tweaked\"]}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
           "type": "minecraft:pillager",
           "nbt": "{Tags:[\"eden.penguin\"]}"
         }
