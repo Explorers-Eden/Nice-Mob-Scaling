@@ -1,0 +1,1 @@
+$execute store result storage eden:temp mob_scaling.scale float 0.01 run random value $(min)..$(max)

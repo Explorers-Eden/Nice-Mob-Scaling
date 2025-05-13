@@ -1,0 +1,1 @@
+$execute if predicate eden:percentages/75 run attribute @s minecraft:scale base set $(scale)

@@ -1,5 +1,6 @@
 {
     "values":[
-      "mob_scaling:load"
+      "mob_scaling:load",
+      "mob_scaling:init"
     ]
   }
